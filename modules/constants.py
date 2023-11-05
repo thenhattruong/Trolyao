@@ -1,0 +1,13 @@
+ai_name = 'PONY'.lower()
+EXIT_COMMANDS = ['bye', 'exit', 'quit', 'shut down', 'shutdown', 'thank you']
+botChatTextBg = "#007cc7"
+botChatText = "white"
+userChatTextBg = "#4da8da"
+chatBgColor = '#12232e'
+background = '#203647'
+textColor = 'white'
+AITaskStatusLblBG = '#203647'
+KCS_IMG = 1  # 0 for light, 1 for dark
+voice_id = 0  # 0 for female, 1 for male
+ass_volume = 1  # max volume
+ass_voiceRate = 200  # normal voice rate
